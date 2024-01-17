@@ -23,7 +23,7 @@ This repository contains a simple chat application developed in C++ using Winsoc
 3. Enter your name when prompted and start sending messages.
 
 ## Image
-![Project Image](./images/server_client.png)
+![Project Image](./imgs/server_client.png)
 
 ## Video Tutorial
 [Link to the video tutorial](https://www.youtube.com/watch?v=okzEZmnVWnM)
